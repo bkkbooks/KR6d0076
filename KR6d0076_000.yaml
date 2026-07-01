@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6d0076/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 其他, offset: 0, content: 妙法蓮華經擊節, id: KR6d0076_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經擊節
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X31/X31n0610.xml
+    old_id: X31n0610
+hash: sha256:a8ac49139221e5cbb260f2cab3475c99734bc76326f77a0061b0c1c89c63c467
